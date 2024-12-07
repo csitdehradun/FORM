@@ -63,12 +63,12 @@ button {
   padding: 12px;
   background-color: transparent;
   color: #f7eeee;
-  border: 2px solid rgb(174, 149, 153);
+  border: 2px solid rgb(12, 91, 152);
   box-shadow: 0 0 6px rgb(230, 53, 194);
   border-radius: 5px;
   font-size: 16px;
   cursor: pointer;
-  background-color: rgb(48, 146, 48);
+  background-color: #068ca6;
 }
 
 button:hover {
